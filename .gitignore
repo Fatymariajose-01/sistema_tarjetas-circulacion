@@ -1,0 +1,8 @@
+# Ignorar el archivo de contraseñas
+.env
+
+# Ignorar el entorno virtual (nunca se sube a GitHub porque pesa mucho)
+env/
+
+# Ignorar los archivos temporales que crea Python
+__pycache__/
