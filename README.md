@@ -10,7 +10,7 @@ Este es un sistema cliente-servidor con interfaz gráfica diseñado para gestion
   * `python-dotenv` (Gestión de variables de entorno y seguridad)
 
 ## Instrucciones de instalación
-1. Clona este repositorio en tu máquina local:
+1. Clone este repositorio en su máquina local:
    ```bash
    git clone [https://github.com/TuUsuario/tu-repositorio.git](https://github.com/TuUsuario/tu-repositorio.git)
 2. Accceda a la carpeta del proyecto:
